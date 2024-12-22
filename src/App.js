@@ -123,6 +123,9 @@ function App() {
           </div>
         </div>
       </div>
+      <footer>
+        <p>Developed by Osman Çelik - <a href='https://osmanceliktr'>osmancelik.tr</a></p>
+      </footer>
     </div>
   );
 }
