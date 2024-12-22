@@ -124,7 +124,7 @@ function App() {
         </div>
       </div>
       <footer>
-        <p>Developed by Osman Çelik - <a href='https://osmanceliktr'>osmancelik.tr</a></p>
+        <p>Developed by Osman Çelik - <a href='https://osmancelik.tr'>osmancelik.tr</a></p>
       </footer>
     </div>
   );
